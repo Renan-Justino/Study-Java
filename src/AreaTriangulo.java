@@ -17,4 +17,5 @@ public class AreaTriangulo {
 
         System.out.println("A área de um triangulo são: " + area + " unidades quadradas.");
     }
+    // testando atualizações do git
 }
